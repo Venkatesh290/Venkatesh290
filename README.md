@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning DSA and Mern Stack Devolopment
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Instagram,Linkedin,k
+- 📫 How to reach me Instagram,Linkedin,
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
